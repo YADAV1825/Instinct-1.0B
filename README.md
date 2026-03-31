@@ -93,7 +93,8 @@ You can reproduce the complete training pipeline from scratch using the Autonomo
 
 ### 🚀 Run Inference (Colab TPU/GPU)
 
-> The trained LLM inference script and model weights are available at: [autonomousX/Instinct-1-1B on Hugging Face](https://huggingface.co/autonomousX/Instinct-1-1B).
+> The inference script and model weights are available at: [autonomousX/Instinct-1-1B on Hugging Face](https://huggingface.co/autonomousX/Instinct-1-1B).
+
 > The training script can be found here [train.py](https://github.com/YADAV1825/Instinct-1.0B/blob/main/train.py)
 
 A ready-to-run Google Colab TPU/GPU inference script is provided below. Simply open a notebook, set your runtime to TPU or GPU, and run it. *(Please be patient, it may take some time to download and compile).*
