@@ -4,7 +4,7 @@ license: apache-2.0
 
 # Instinct-1-1B
 
-*Instinct-1-1B is a fully reproducible, from-scratch trained 1B parameter language model trained on 20B tokens of PILE using TPU v4 infrastructure.*
+*Instinct-1-1B is a fully reproducible, from-scratch trained 1B parameter language model trained on 85B tokens of PILE using TPU v4 infrastructure.*
 
 **Instinct-1-1B** is a 1 Billion parameter Large Language Model built from scratch under the **AutonomousX** organization.
 
@@ -58,8 +58,7 @@ Training pipeline includes:
 * Checkpointing and validation during training
 * Rolling validation shard evaluation
 
-The model was trained on **20B tokens** and it's is a checkpoint of final version trained on **85B tokens** in total
-
+The model was trained on **85B tokens**
 ---
 
 ## Reproducibility
