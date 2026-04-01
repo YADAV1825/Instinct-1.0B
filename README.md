@@ -3,6 +3,8 @@ license: apache-2.0
 ---
 # Instinct-1-1B
 
+[autonomousX/Instinct-1-1B on Hugging Face](https://huggingface.co/autonomousX/Instinct-1-1B)
+
 *Instinct-1-1B is a fully reproducible, from-scratch trained 1B parameter language model trained on 85B tokens using TPU v4 infrastructure.*
 
 **Instinct-1-1B** is a 1 Billion parameter Large Language Model built entirely from scratch under the **AutonomousX** organization. 
